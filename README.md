@@ -1,9 +1,16 @@
-# Kingsley Chika CHUKWU
+# Vagrant - or - how to code in your local computer
 
-## ALX Student of Software Engineering
+## General
 
-* I will learn
+* What is a virtual machine
+* What is Vagrant
 
-* I am not taking chances
+* Who wrote Vagrant
 
-* the only option is to make it
+* What is Ubuntu
+
+* What does “Ubuntu” mean
+
+* How to use VMs with Vagrant
+
+* What does the command uname do
